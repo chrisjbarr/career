@@ -10,8 +10,8 @@ I hope you did not find this recommendation too forward, but rather informative 
 
 Good luck with your search.
 
-Michael Briggs
-Senior Director
-Architecture, Data Services & Environment Engineering | Ally Financial
+Michael Briggs  
+Senior Director  
+Architecture, Data Services & Environment Engineering | Ally Financial  
 
 https://www.linkedin.com/in/mbriggsy/
