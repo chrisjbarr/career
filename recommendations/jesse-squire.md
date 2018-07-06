@@ -10,10 +10,10 @@ The second differentiator is his tenacity.  Chris is quick to admonish himself f
 
 It is my opinion that he would be an asset for any organization.  Should you wish to speak further about Chris, please don’t hesitate to reach out.  Thank you for taking the time to read this, and I wish you success in you search.
 
-Jesse Squire
-Senior Software Engineer
-Commercial Software Engineering | Microsoft
+Jesse Squire  
+Senior Software Engineer  
+Commercial Software Engineering | Microsoft  
 
-https://www.jessesquire.com/
-https://www.linkedin.com/in/jessesquire/
-@Jesse_Squire
+https://www.jessesquire.com/  
+https://www.linkedin.com/in/jessesquire/  
+@Jesse_Squire  
