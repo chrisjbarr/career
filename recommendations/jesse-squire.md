@@ -16,4 +16,5 @@ Commercial Software Engineering | Microsoft
 
 https://www.jessesquire.com/  
 https://www.linkedin.com/in/jessesquire/  
-@Jesse_Squire  
+https://twitter.com/Jesse_Squire
+
