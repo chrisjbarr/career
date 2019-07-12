@@ -12,9 +12,9 @@ It is my opinion that he would be an asset for any organization.  Should you wis
 
 Jesse Squire  
 Senior Software Engineer  
-Commercial Software Engineering | Microsoft  
+Azure Engineering | Development Platform | Microsoft  
 
-https://www.jessesquire.com/  
 https://www.linkedin.com/in/jessesquire/  
+https://github.com/jsquire
 https://twitter.com/Jesse_Squire
-
+https://www.jessesquire.com/about
