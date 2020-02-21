@@ -1,4 +1,4 @@
-# Chris Barr's Portfolio
+# Chris Barr's Repository of Career Related Things.
 
 ## Overview
 
