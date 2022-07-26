@@ -18,11 +18,25 @@ I've been following Tracy Lee on the Twitterz for quite some time now, and I've 
 
 ### What do you do in your current position? What do you like about it? What do you not?
 
-Presently, I'm a full time remote contractor for a utilities company based out of the Philadelphia, PA area. The contract is on-going with either side requiring a 14 day notice to the other for termination. The tech stack is ASP.NET MVC 4.6, .NET Framework with C# 7.
+#### Current Position
 
-Why are you leaving your current position?
+Presently, I'm a full time remote contractor for American Water ("AW") - a utilities company based out of the Philadelphia, PA area. The contract is on-going with either side requiring a 14 day notice to the other for termination. During my 18 months with AW, I've built strong relationships with business leads, my manager and skip and skip's manager, as well as my direct teammates. I currently split my time between mentoring others, writing stories and coding feature requests as an individual contributor.
 
-What do you think employers can do to better support their team members?
+The product I work on is a legacy monolith with a tech stack of ASP.NET MVC 4.6, .NET Framework with C# 7, vanilla JavaScript (with some jQuery) and vanilla CSS. Unit tests are MSTest, UI tests are SpecFlow w/Selenium, ORM is nhibernate database is Sql Server. The UI is a simple standard CRUD form for each type of entity and is rigid in it's design.
+
+Our infrastructure is manually maintained in AWS with 2 load balanced EC2 instances and the software is installed via TeamCity after environment targeted branches are merged in GitHub.
+
+#### What do you like about it?
+
+I've organically shown that I can lead by example as well as 'act as the glue' between the development team, our business leads, the datawarehouse team and the company's DevSecOps team - as well as a new 4 person staff augmentation team provided by an external company. This has afforded me an opportunity to take on more responsibility and be accountable for things other than just coding - this sets me apart from the other contractors on the team. I like bridging these types of gaps when I see them and playing the role of an orchestrator among peers.
+
+#### Why are you leaving your current position?
+
+The things I like about the company have only satiated my desire for fulfillment to a small degree. I require technical challenges as well as human challenges, and I'm only coming up against the latter - which as stated, I enjoy doing but isn't enough. I've been a web developer my entire career with a strong focus on UI and empathy for the users navigating the software I create. Because the application is legacy and has been around for 10 years, all of the feature requests are in the form of simple CRUD / form updates and are simple, if not mundane, to execute. The typical flow: write a migration script, create the entities and mappings to view models, add the properties to the various cshtml files, maybe get lucky and write some JavaScript for some validation or interaction, spend forever writing the SpecFlow tests (cuz we all know SpecFlow can be a mind bender), rinse repeat.
+
+tldr; I'm bored with the technical aspects of the position.
+
+#### What do you think employers can do to better support their team members?
 
 Where do you hope your career will take you in the next few years?
 
