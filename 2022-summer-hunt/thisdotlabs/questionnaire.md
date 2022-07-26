@@ -53,7 +53,7 @@ I've shown that I can organically lead without direct authority - I've been able
 
 #### Why are you leaving your current position?
 
-In a nutshell - I'd like to have more opportunity for ownership and take on more technical challenges. While I've been able to extend my influence beyond that of a typical contractor, I am still viewed as external to the company and, in some respects, the team. I'd like to be part of a more inclusive team where I can both mentor others and have the opportunity to increase my own learnings.
+In a nutshell - I'd like to have more opportunity for ownership and take on more technical challenges. While I've been able to extend my influence beyond that of a typical contractor, I am still viewed as external to the company and, in some respects, the team. I'd like to be part of a more inclusive team where I can mentor others, work as "the glue" between teams and have the opportunity to increase my own learnings.
 
 #### What do you think employers can do to better support their team members?
 
@@ -88,3 +88,7 @@ People want to know their opinion will be heard and given as much weight as anyo
 #### What if you become really frustrated with a teammate? What are you going to do?
 
 #### What are you looking for financially?
+
+My contract rate with AW is $120 per hour, while my rate for freelancing is $90 per hour. The discrepancy is due to freelancing being part time and secondary income, along with leveraging technology that I enjoy working in. Aside from those explicit numbers, I'm aware of what the current market rate is for someone with my skill set in the USA.
+
+What does This Dot Labs believe is fair compensation for this role?
