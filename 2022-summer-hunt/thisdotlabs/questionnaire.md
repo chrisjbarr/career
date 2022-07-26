@@ -2,16 +2,23 @@
 
 ## Job Application Questionnaire
 
-This questionnaire was received by Chris Barr on Monday 07/25 at 9:34PM EST. The responses are to be considered _the first interview_.
+This questionnaire was received by Chris Barr on Monday 07/25. The responses are to be considered _the first interview_ and were submitted back to This Dot Labs on 7/26.
 
 ### Where are you physically located?
-: this is my answer.
 
-We do not do any visa sponsorship. Do you require any? (This only applies if you are based in the US)
+A few years ago I bought a new home in [Swedesboro, NJ](https://www.google.com/maps/place/Swedesboro,+NJ+08085/@39.7439835,-75.3195633,15z/data=!3m1!4b1!4m5!3m4!1s0x89c6d9c3be536f49:0x7c34bc08e7d58112!8m2!3d39.7476136!4d-75.3104654).
 
-What interested you about the position?
+### We do not do any visa sponsorship. Do you require any? (This only applies if you are based in the US)
 
-What do you do in your current position? What do you like about it? What do you not?
+N/A
+
+### What interested you about the position?
+
+I've been following Tracy Lee on the Twitterz for quite some time now, and I've seen her interactions with the community and the relentless promotion of learning with and by This Dot Labs peoples. It's clear she cares about her team and the reputation of the company within the community. The company has embraces, both directly and indirectly a "we can't do this without our people" persona. This is what's most interesting to me about the position - being part of a team with the support of leadership to be better.
+
+### What do you do in your current position? What do you like about it? What do you not?
+
+Presently, I'm a full time remote contractor for a utilities company based out of the Philadelphia, PA area. The contract is on-going with either side requiring a 14 day notice to the other for termination. The tech stack is ASP.NET MVC 4.6, .NET Framework with C# 7.
 
 Why are you leaving your current position?
 
