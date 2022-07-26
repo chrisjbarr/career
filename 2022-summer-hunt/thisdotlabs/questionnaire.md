@@ -22,20 +22,30 @@ I've been following Tracy Lee on Twitter for quite some time now, and I've seen 
 
 Presently, I'm a full time remote contractor for American Water ("AW") - a utilities company based out of the Philadelphia, PA area. The contract is on-going with either side requiring a 14 day notice to the other for termination. During my 18 months with AW, I've built strong relationships with business leads, my manager and skip and skip's manager, as well as my direct teammates. I currently split my time between mentoring others, writing stories and coding feature requests as an individual contributor.
 
-My technical day to day consists of working in the following tech stack:
+My technical day to day consists of working with the following:
 
-- ASP.NET MVC 4.6,
+- ASP.NET MVC 4.6
 - .NET Framework with C# 7
 - Vanilla JavaScript (with some jQuery)
 - Vanilla CSS
 - MSTest, SpecFlow w/Selenium
-- ORM is nhibernateover Sql Server database
+- ORM is nhibernate over Sql Server
+- .NET Framework windows services publishing to and consuming from AWS MSK
 
 The UI is a simple standard CRUD form for each type of entity and is rigid in it's design.
 
 Our infrastructure is manually maintained in AWS with 2 load balanced EC2 instances and the software is installed via TeamCity after environment targeted branches are merged in GitHub.
 
-Additionally, I do a limited amount of freelance work in order to enjoy other technology stacks, keep up with current industry trends and learn about other business domains.
+Additionally, I do a limited amount of freelance work in order to enjoy other technology stacks, keep up with current industry trends and learn about other business domains. Current technical areas of focus in this area:
+
+- VueJS 3 w/composition API
+- Azure Authentication
+- VueQuery
+- Tailwind
+- VueUse
+- Dotnet core backend
+- External APIs - Keepa, Apify
+- Azure DevOps
 
 #### What do you like about it?
 
@@ -43,7 +53,7 @@ I've shown that I can organically lead without direct authority - I've been able
 
 #### Why are you leaving your current position?
 
-In a nutshell - I'd like to have more opportunity for ownership, to work on a strategic level, and take on more technical challenges. While I've been able to extend my influence beyond that of a typical contractor, I am still viewed as external to the company and, in some respects, the team. I'd like to be part of a more inclusive team where I can both mentor others and have the opportunity to increase my own learnings.
+In a nutshell - I'd like to have more opportunity for ownership and take on more technical challenges. While I've been able to extend my influence beyond that of a typical contractor, I am still viewed as external to the company and, in some respects, the team. I'd like to be part of a more inclusive team where I can both mentor others and have the opportunity to increase my own learnings.
 
 #### What do you think employers can do to better support their team members?
 
