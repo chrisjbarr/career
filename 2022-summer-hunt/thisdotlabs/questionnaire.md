@@ -34,7 +34,7 @@ I've organically shown that I can lead by example as well as 'act as the glue' b
 
 The things I like about the company have only satiated my desire for fulfillment to a small degree. I require technical challenges as well as human challenges, and I'm only coming up against the latter - which as stated, I enjoy doing but isn't enough. I've been a web developer my entire career with a strong focus on UI and empathy for the users navigating the software I create. Because the application is legacy and has been around for 10 years, all of the feature requests are in the form of simple CRUD / form updates and are simple, if not mundane, to execute. The typical flow: write a migration script, create the entities and mappings to view models, add the properties to the various cshtml files, maybe get lucky and write some JavaScript for some validation or interaction, spend forever writing the SpecFlow tests (cuz we all know SpecFlow can be a mind bender), rinse repeat.
 
-tldr; I'm bored with the technical aspects of the position.
+tldr; I don't find fulfillment with the technical aspects of the position.
 
 #### What do you think employers can do to better support their team members?
 
