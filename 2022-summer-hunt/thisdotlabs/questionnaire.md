@@ -14,7 +14,7 @@ N/A
 
 ### What interested you about the position?
 
-I've been following Tracy Lee on Twitter for quite some time now, and I've seen her interactions with the community and the relentless promotion of learning with and by This Dot Labs peoples. It's clear she cares about her team and the reputation of the company within the community. The company has embraces, both directly and indirectly a "we can't do this without our people" persona. This is what's most interesting to me about the position - being part of a team with the support of leadership to be better.
+I've been following Tracy Lee on Twitter for quite some time now, and I've seen her interactions with the community and the relentless promotion of learning with and by This Dot Labs peoples. It's clear she cares about her team and the reputation of the company within the community. The company embraces, both directly and indirectly a "we can't do this without our people" persona. This is what's most interesting to me about the position - being part of a team with the support of leadership to be better.
 
 ### What do you do in your current position? What do you like about it? What do you not?
 
