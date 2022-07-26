@@ -59,23 +59,80 @@ In a nutshell - I'd like to have more opportunity for ownership and take on more
 
 Listening and fostering a safe haven for personal and team based growth. Including everyone in discussions that impact the well being of the company, it's products and it's people - regardless of experience level, age or expertise in the area of discussion.
 
-People want to know their opinion will be heard and given as much weight as anyone else's. This is paramount towards team members feeling like a valuable asset to the organization.
+People want to know their opinions will be heard. This is paramount towards team members feeling like a valuable asset to the organization.
 
 #### Where do you hope your career will take you in the next few years?
 
+I hope my career finds me in a nurturing environment that values creativity, expression and learning, where I get to lead by example, learn by interaction with others, and be an individual contributor. I have experience as a people manager a few times over the last 8 years and I think I've finally realized IC is where I'd like to stay. I'm not opposed to being a _staff engineer_ in the future - but I don't think that is in the cards just yet. I'm quite happy being a generalist, glue or lead.
+
 #### What gets you really excited in a job?
+
+Creating solutions to interesting business challenges, with existing or new technology - and being given the freedom to learn, experiment and prototype while being accountable for everything from business idea, design, implementation and support. Having a manager and leadereship that supports my journey and indirectly encourages me to do more, to be better. A good mix of technical and people traits.
 
 #### Are you comfortable leading a team and have you before? Give us examples of if you have and/or if you were to.
 
+Yes - the last 10 years I've had a few positions where I was officially asked to lead or a team, or unofficially lead by influence on my own when seeing a gap.
+
+I have had 4 Development Manager positions and 6 Tech Lead positions - some of which overlap when I was promoted to Development Manager from Tech Lead. Team sizes ranged from 3 to 6 engineers of varying backgrounds and expertise. Reporting structure was either to a Director of C-Level.
+
+I'm currently leading by influence as a contractor with AW and with a small two person team while freelancing. In all of these situations except the latter, I was not the most technically knowledgeable engineer.
+
+All of these positions except AW and current freelancing were on-site and in EST timezone. AW and freelancing are both 100% remote and across all US timezones.
+
 #### What's important to you? If you had to pick what your top 6 "values" are in life and at work, what are they and why?
+
+1. Empathetic - I work to understand the feelings of others and how they're impacted by my actions and technical contributions. I'm in-tune with the struggles of those who use my solutions.
+
+2. Comprehensive - I have a desire to understand an entire system as I work on it, rather than just one technical area or module.
+
+3. Facilitator - I engage and work across teams to turn ideas into software with a focus on end user experience; I'm comfortable in this role as leader or follower as the situation demands.
+
+4. Adaptable - I can dig into the trenches with new technology or unfamiliar, existing code bases. I understand business requirements, vision and focus can change, and I pivot to deliver expectations as needed.
+
+5. Professional - I strive to do the right thing, understand when compromises are need and I'm aware of my flags and attempt to be a better Chris than I was yesterday.
+
+6. Pragmatist - I strive to deliver quality software as needed, under budget and within time constraints, this requires the ability to be pragamtic, weigh trade offs and make decisions the team, or even myself, may not be happy with. Building a perfect solution is unachievable... but building the perfect pragmatic solution is.
 
 #### Do you prefer to be told exactly what to do, or do you prefer to work with little direction?
 
+I can and have delivered successfully in both scenarios - however, I prefer to work with little direction, where the guard rails are a little wider and I have the ability to help influence the strategic direction. That said, I am engaged, ask a lot of questions, provide ample updates as to status and request feedback from both my peers and direct manager - I do not encourage working in isolation.
+
 #### Can you rate yourself for the top 5 technologies you are most familiar with - from 1-10? 1 being not at all, and 10 being you could write an O'Reilly book on the tech.
+
+7 - JavaScript / VueJS
+6 - HTML / CSS
+6 - C#
+5 - NodeJS
+4 - TypeScript
+4 - GraphQL
+
+Two bonus ratings:
+
+9 - Discovery of appropriate memes for any given scenario
+10 - Googling for help
 
 #### Are you comfortable in all technologies and would you be willing to work across all technologies? Or, do you prefer to stay in one technology?
 
+I really enjoy working across all technologies and would prefer to keep it that way. Despite being a full stack engineer, front-end has always had a special place in my heart. Across technologies, I've done a little bit of a lot, some examples:
+
+- Modern front-end with VueJS 2/3, React and Angular
+  - My preference and most experience is with VueJS but would work in any of the modern stacks including Svelte or Solid
+- NodeJS
+- Azure Services, AWS Services
+- Native iOS and Android
+- Python / Django web applications and services
+- .NET Framework, .NET Core, WPF Windows Applications
+- ETL, SSIS
+
 #### What would you say your strengths are, and your weaknesses?
+
+My strengths are covered fairly well under the values question - with the 6th value being what I would consider my strongest trait. I immerse myself in what my customer needs and do my best to get us there under budgetary and time constraints. I'm able to dissassociate myself from the desire to achieve perfection; to step back and evaluate trade-offs and get buy-in from my peers and business leads; to deliver a quality product we can all be proud of.
+
+My personality is a strength - I'm agreeable, firm but fair, realistically optimistic and transparent. These personality traits allow me foster strong bonds with my peers, leadership and customers. Many times, privately, others will seek me out and give me kudos for being the voice of reason, the bouy in the sea providing safe harbor, or the 'happy one'.
+
+Another strength worth mentioning is my desire to help others understand the things we do. I enjoy creating and telling stories to help non-technical folks understand technical concepts. The most recent of which was helping my business partner understand messaging by telling a story about hobbits.
+
+--- Fill this out some more, go back into teams and get the story
 
 #### Give us an example of when someone told you to do something that was technically wrong and/or you disagreed with the architect. How do you deal with the situation?
 
