@@ -6,7 +6,7 @@ This questionnaire was received by Chris Barr on Monday 07/25. The responses are
 
 ### Where are you physically located?
 
-A few years ago I bought a new home in [Swedesboro, NJ](https://www.google.com/maps/place/Swedesboro,+NJ+08085/@39.7439835,-75.3195633,15z/data=!3m1!4b1!4m5!3m4!1s0x89c6d9c3be536f49:0x7c34bc08e7d58112!8m2!3d39.7476136!4d-75.3104654).
+I currently reside in [Swedesboro, NJ, USA](https://www.google.com/maps/place/Swedesboro,+NJ+08085/@39.7439835,-75.3195633,15z/data=!3m1!4b1!4m5!3m4!1s0x89c6d9c3be536f49:0x7c34bc08e7d58112!8m2!3d39.7476136!4d-75.3104654) within the EST timezone.
 
 ### We do not do any visa sponsorship. Do you require any? (This only applies if you are based in the US)
 
@@ -14,7 +14,7 @@ N/A
 
 ### What interested you about the position?
 
-I've been following Tracy Lee on the Twitterz for quite some time now, and I've seen her interactions with the community and the relentless promotion of learning with and by This Dot Labs peoples. It's clear she cares about her team and the reputation of the company within the community. The company has embraces, both directly and indirectly a "we can't do this without our people" persona. This is what's most interesting to me about the position - being part of a team with the support of leadership to be better.
+I've been following Tracy Lee on Twitter for quite some time now, and I've seen her interactions with the community and the relentless promotion of learning with and by This Dot Labs peoples. It's clear she cares about her team and the reputation of the company within the community. The company has embraces, both directly and indirectly a "we can't do this without our people" persona. This is what's most interesting to me about the position - being part of a team with the support of leadership to be better.
 
 ### What do you do in your current position? What do you like about it? What do you not?
 
@@ -22,7 +22,16 @@ I've been following Tracy Lee on the Twitterz for quite some time now, and I've 
 
 Presently, I'm a full time remote contractor for American Water ("AW") - a utilities company based out of the Philadelphia, PA area. The contract is on-going with either side requiring a 14 day notice to the other for termination. During my 18 months with AW, I've built strong relationships with business leads, my manager and skip and skip's manager, as well as my direct teammates. I currently split my time between mentoring others, writing stories and coding feature requests as an individual contributor.
 
-The product I work on is a legacy monolith with a tech stack of ASP.NET MVC 4.6, .NET Framework with C# 7, vanilla JavaScript (with some jQuery) and vanilla CSS. Unit tests are MSTest, UI tests are SpecFlow w/Selenium, ORM is nhibernate database is Sql Server. The UI is a simple standard CRUD form for each type of entity and is rigid in it's design.
+My day to day consists of working in the following tech stack:
+
+- ASP.NET MVC 4.6,
+- .NET Framework with C# 7
+- Vanilla JavaScript (with some jQuery)
+- Vanilla CSS
+- MSTest, SpecFlow w/Selenium
+- ORM is nhibernateover Sql Server database
+
+The UI is a simple standard CRUD form for each type of entity and is rigid in it's design.
 
 Our infrastructure is manually maintained in AWS with 2 load balanced EC2 instances and the software is installed via TeamCity after environment targeted branches are merged in GitHub.
 
@@ -37,6 +46,10 @@ The things I like about the company have only satiated my desire for fulfillment
 tldr; I don't find fulfillment with the technical aspects of the position.
 
 #### What do you think employers can do to better support their team members?
+
+Listening and fostering a safe haven for personal and team based growth. Including everyone in discussions that impact the well being of the company, it's products and it's people - regardless of experience level, age or perceived expertise in the area of discussion.
+
+People want to know their opinion will be heard and given as much weight as anyone else's. This is paramount towards team members feeling like a valuable asset to the organization. Team members who don't feel valued will leave.
 
 Where do you hope your career will take you in the next few years?
 
