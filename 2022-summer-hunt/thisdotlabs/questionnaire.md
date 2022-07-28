@@ -150,6 +150,8 @@ This is a tough one to answer, because the word "annoying" is ... well annoying 
 
 #### What if you become really frustrated with a teammate? What are you going to do?
 
+Communication. When I realize I've become frustrated with a teammate - I attempt to remove the emotion and see the situation through the lens of an observer. I will mentally go back through time and replay the interactions we had to diagnose how my emotional state of mind came to be then I'll reevaluate. Direct communication with the teammate almost always resolves these emotional states, regardless of how they came about - the communication should be neutral or empathatic and without humor or self deprecation - it's easy to blame ourselves in times like this in an effort to 'just get beyond' the situation - but it's more important to set clear boundaries and admit fault if fault is at play. When this doesn't work, then I just give things time to see how they play out - if my frustration continues beyond this point then I'll have a discussion with my manager in our next 1:1. I'll try to be objective and discuss what I perceive to be both sides of the story - hoping to get direction on an approach for remediation.
+
 #### What are you looking for financially?
 
 My contract rate with AW is $120 per hour, while my rate for freelancing is $90 per hour. The discrepancy is due to freelancing being part time and secondary income, along with leveraging technology that I enjoy working in. Aside from those explicit numbers, I'm aware of what the current market rate is for someone with my skill set in the USA.
