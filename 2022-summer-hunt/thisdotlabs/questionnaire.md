@@ -130,13 +130,15 @@ My strengths are covered fairly well under the values question - with the 6th va
 
 My personality is a strength - I'm agreeable, firm but fair, realistically optimistic and transparent. These personality traits allow me foster strong bonds with my peers, leadership and customers. Many times, privately, others will seek me out and give me kudos for being the voice of reason, the bouy in the sea providing safe harbor, or the 'happy one'.
 
-Another strength worth mentioning is my desire to help others understand the things we do. I enjoy creating and telling stories to help non-technical folks understand technical concepts. The most recent of which was helping my business partner understand messaging by telling a story about hobbits.
-
---- Fill this out some more, go back into teams and get the story
+Another strength worth mentioning is my interest in helping others understand the things we do through creative story-telling - the most recent of which was helping my business partner understand the concept of object abstraction and instantiation via a story about a [fruit factory](./fruit-factory.md).
 
 #### Give us an example of when someone told you to do something that was technically wrong and/or you disagreed with the architect. How do you deal with the situation?
 
 #### What do you think the hardest part about working remotely is?
+
+The hardest part for me working remotely is recognizing intent and absorbing emotional context during my interactions with colleagues. There are subtle (sometimes not!) physical mannerisms we humans go through when communicating with each other which provide context to help their audience understand intent or become empathatic to the words they speak. Being remote and in an industry where it's probably safe to say most of our colleagues are introverted (including myself) it can be easy and considered normal to prefer async communication over a text-based medium (e-mail, Slack) or even discussing something over voice - but turning on the video, that can be really difficult for some to do. Maybe someone is in their pajamas, or their bed isn't made, or their cat is on their shoulder, or maybe they're really just not comfortable being on camera - etc, there could be any reason why they prefer a video-less transmission. This option to participate without being visually 'present' is not an option when working in an office... and can make things difficult for thos of us who rely on social cues for communicating.
+
+For this reason I make it a point to always turn my video on during calls even if I'm not leading the call or speaking.
 
 #### How do you plan on working remotely?
 
