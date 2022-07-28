@@ -134,6 +134,27 @@ Another strength worth mentioning is my interest in helping others understand th
 
 #### Give us an example of when someone told you to do something that was technically wrong and/or you disagreed with the architect. How do you deal with the situation?
 
+At AW, we work with and rely on various teams who specialize in other areas, one of these teams is called DevSecOps and they're responsible for building our CICD pipelines in AWS. I was engaging with them for implementation of a new pipeline for a docker based .NET Core API and docker based Angular front-end in a GitHub mono-repository. Going back 2 years prior to this engagement, the DevSecOps had built generic pipelines for use by other software engineering teams in the company - all of which were Java/Angular based. These pipelines were battle tested and in maintenance mode but lacked some features my team wanted to implement:
+
+- Tagging .NET libraries and docker images with a version generated from source code + build number
+- Setting environmental build variables such that our dockerfile and Angular environment files could bake in a version number created from package.json version + build number
+- Running .NET unit tests, generating reports and dropping them in an S3 bucket so developers could review
+- Building, testing, versioning and publishing .NET libraries to AWS Code Artifact so that other pipelines could consume them
+- Triggering builds for individual projects in the monorepo when they change as opposed to rebuilding all projects in monorepo when any file changes
+- Promoting build artifacts through environments and applying environmental configuration at deploy time, instead of building after reacting to a merge commit in an environment specific branch
+
+We were told very specifically that every one of these items except the last were not best practices. Additionally, for every one of these items we were told were not possible with AWS Code Pipeline.
+
+I have prior experience with Azure DevOps (VSTS prior to it) and TeamCity/Octopus Deploy and I knew this person's analysis of our request was wrong - So how did I deal with the situation?
+
+I had a Teams call with the lead DevSecOps teammate and expressed my opinions on how these were considered best practices in both .NET and Angular, and potentially Java ecosystems. I referenced AWS Code Pipeline documentation pages where each of these items is discussed in detail with examples. I intentionally did not reference any blog articles or opinion pieces. The outcome of this first meeting:
+
+- Agreement to implement a versioning strategy in the API and front-end
+- Generation of reports from both project test runs was not possible with AWS Code Pipeline
+- Promotion of build artifacts is highly sought by teh company at large and is on the DevSecOps roadmap for 2023 (this discussion was in late 2021)
+
+Having seen the AWS Documentation of generating test run reports and exposing them via S3 from a link tied to each build run, I knew doing this was not impossible. I used this as an opportunity to try to lead by example. Over the next few days, I met with my manager and got permission to implement this in an AWS sandbox environment, fully documented my approach step by step with pictures and reference links to AWS Documentation, submitted it to the DevSecOps team, my team and the skip manager overseeing all of us. After a few weeks we were told the proposed approach was not possible with their generic implementation of pipelines and that it would require custom work on their end, to be prioritized and complete within 6 weeks. In the end, we were given a custom HTML text only based solution which allows us to review what tests passed and failed and [not the reports were had requested](https://aws.amazon.com/blogs/devops/test-reports-with-aws-codebuild/)
+
 #### What do you think the hardest part about working remotely is?
 
 The hardest part for me working remotely is recognizing intent and absorbing emotional context during my interactions with colleagues. There are subtle (sometimes not!) physical mannerisms we humans go through when communicating with each other which provide context to help their audience understand intent or become empathatic to the words they speak. Being remote and in an industry where it's probably safe to say most of our colleagues are introverted (including myself) it can be easy and considered normal to prefer async communication over a text-based medium (e-mail, Slack) or even discussing something over voice - but turning on the video, that can be really difficult for some to do. Maybe someone is in their pajamas, or their bed isn't made, or their cat is on their shoulder, or maybe they're really just not comfortable being on camera - etc, there could be any reason why they prefer a video-less transmission. This option to participate without being visually 'present' is not an option when working in an office... and can make things difficult for thos of us who rely on social cues for communicating.
