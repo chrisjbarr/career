@@ -146,6 +146,8 @@ I have worked remotely for multiple positions over the last 13 years in both ind
 
 #### What is something that you find especially annoying about working with people?
 
+This is a tough one to answer, because the word "annoying" is ... well annoying and not something you want to write about when applying for a position where you need to work harmoniously with other people. When coworkers commit to doing something and do not do the thing they committed to, or do not communicate a change in plan - this is especially annoying to me. We're all working together, to build and ship software, for various reasons. Usually, we don't have "micro-managers" requesting status and directing traffic multiple times a day - and for this reason we all need to hold ourselves accountable for the things we say we'll do, and when we don't or can't do them, need to relay this information to our teammates so they can assist or prepare for any alternative outcomes. This is something that I don't think is acquired over time with professional experience - I think it's something that is acquired as we grow up and influenced by environmental factors and the relationships that have been built in early life. For that reason, while annoying, I am still empathetic to the situation, understanding and try to lead by example by over communicating what I'm doing along with ETAs if applicable for any team members dependent on my tasks at hand.
+
 #### What if you become really frustrated with a teammate? What are you going to do?
 
 #### What are you looking for financially?
