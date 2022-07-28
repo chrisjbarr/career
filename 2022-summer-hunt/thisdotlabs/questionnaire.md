@@ -142,6 +142,8 @@ For this reason I make it a point to always turn my video on during calls even i
 
 #### How do you plan on working remotely?
 
+I have worked remotely for multiple positions over the last 13 years in both individual and lead positions. I have a dedicated office in my home with 3 monitors, a gaming rig as my workstation and lots of plush toys. I over communicate to my peers and leadership my status as well as actively engage in in "general" type async channels in Slack / Teams. I try to bring a certain level of fun and question asking to these types of channels in an effort to interest others in joining in an effort to create community - I understand not everyone is interested in participation and can be self aware enough to know when I need to disengage.
+
 #### What is something that you find especially annoying about working with people?
 
 #### What if you become really frustrated with a teammate? What are you going to do?
