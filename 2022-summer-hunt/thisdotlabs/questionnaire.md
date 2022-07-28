@@ -10,7 +10,7 @@ I currently reside in [Swedesboro, NJ, USA](https://www.google.com/maps/place/Sw
 
 ### We do not do any visa sponsorship. Do you require any? (This only applies if you are based in the US)
 
-N/A
+Not applicable
 
 ### What interested you about the position?
 
@@ -20,7 +20,7 @@ I've been following Tracy Lee on Twitter for quite some time now, and I've seen 
 
 #### Current Position
 
-Presently, I'm a full time remote contractor for American Water ("AW") - a utilities company based out of the Philadelphia, PA area. The contract is on-going with either side requiring a 14 day notice to the other for termination. During my 18 months with AW, I've built strong relationships with business leads, my manager and skip and skip's manager, as well as my direct teammates. I currently split my time between mentoring others, writing stories and coding feature requests as an individual contributor.
+Presently, I'm a full time remote contractor for American Water ("AW") - a utilities company based out of the Philadelphia, PA area. The contract is on-going with either side requiring a 14 day notice to the other for termination. During my 18 months with AW, I've built strong relationships with business leads, my manager and skip managers, as well as my direct teammates. I currently split my time between mentoring others, writing stories and coding feature requests as an individual contributor.
 
 My technical day to day consists of working with the following:
 
@@ -29,14 +29,14 @@ My technical day to day consists of working with the following:
 - Vanilla JavaScript (with some jQuery)
 - Vanilla CSS
 - MSTest, SpecFlow w/Selenium
-- ORM is nhibernate over Sql Server
+- nhibernate over Sql Server
 - .NET Framework windows services publishing to and consuming from AWS MSK
 
 The UI is a simple standard CRUD form for each type of entity and is rigid in it's design.
 
-Our infrastructure is manually maintained in AWS with 2 load balanced EC2 instances and the software is installed via TeamCity after environment targeted branches are merged in GitHub.
+Our infrastructure is manually maintained in AWS with 2 load balanced EC2 instances and the software is installed via TeamCity via a manual human process of a human clicking a "Deploy" button.
 
-Additionally, I do a limited amount of freelance work in order to enjoy other technology stacks, keep up with current industry trends and learn about other business domains. Current technical areas of focus in this area:
+I also do a limited amount of freelance work in order to enjoy other technology stacks, keep up with current industry trends and learn about other business domains. Current technical areas of focus in this area:
 
 - VueJS 3 w/composition API
 - Azure Authentication
@@ -53,7 +53,7 @@ I've shown that I can organically lead without direct authority - I've been able
 
 ### Why are you leaving your current position?
 
-In a nutshell - I'd like to have more opportunity for ownership and take on more technical challenges. While I've been able to extend my influence beyond that of a typical contractor, I am still viewed as external to the company and, in some respects, the team. I'd like to be part of a more inclusive team where I can mentor others, work as "the glue" between teams and have the opportunity to increase my own learnings.
+In a nutshell - I'd like to have more opportunity for ownership and take on more technical challenges outside of the .NET ecosystem. While I've been able to extend my influence beyond that of a typical contractor, I am still viewed as external to the company and, in some respects, the team. I'd like to be part of a more inclusive team where I can mentor others, work as "the glue" between teams and have the opportunity to increase my own learnings.
 
 ### What do you think employers can do to better support their team members?
 
@@ -63,7 +63,7 @@ People want to know their opinions will be heard. This is paramount towards team
 
 ### Where do you hope your career will take you in the next few years?
 
-I hope my career finds me in a nurturing environment that values creativity, expression and learning, where I get to lead by example, learn by interaction with others, and be an individual contributor. I have experience as a people manager a few times over the last 8 years and I think I've finally realized IC is where I'd like to stay. I'm not opposed to being a _staff engineer_ in the future - but I don't think that is in the cards just yet. I'm quite happy being a generalist, glue or lead.
+I hope my career finds me in a nurturing environment that values creativity, expression and learning, where I get to lead by example, learn by interaction with others, and be an individual contributor. I have experience as a people manager a few times over the last 10 years and I think I've finally realized IC is where I'd like to stay. In this track, I'm not opposed to being a _staff engineer_ in the future - but I fear my lack of deep expertise in a small set of areas will impede that from happening. That said, I'm quite happy being a generalist, "glue" and/or lead.
 
 ### What gets you really excited in a job?
 
@@ -87,15 +87,15 @@ All of these positions except AW and current freelancing were on-site and in EST
 
 - _Facilitator_ - I engage and work across teams to turn ideas into software with a focus on end user experience; I'm comfortable in this role as leader or follower as the situation demands.
 
-- _Adaptable_ - I can dig into the trenches with new technology or unfamiliar, existing code bases. I understand business requirements, vision and focus can change, and I pivot to deliver expectations as needed.
+- _Adaptable_ - I can dig into the trenches with new technology or unfamiliar, existing code bases. I understand that business requirements / visions and focus can change - and as such can pivot effortlessly to deliver to new expectations as needed.
 
-- _Professional_ - I strive to do the right thing, understand when compromises are need and I'm aware of my flags and attempt to be a better Chris than I was yesterday.
+- _Professional_ - I strive to do the right thing, understand when compromises are need and I'm aware of my flaws. I attempt to be a better Chris than I was yesterday.
 
-- _Pragmatist_ - I strive to deliver quality software as needed, under budget and within time constraints, this requires the ability to be pragamtic, weigh trade offs and make decisions the team, or even myself, may not be happy with. Building a perfect solution is unachievable... but building the perfect pragmatic solution is.
+- _Pragmatist_ - I seek to deliver quality software as needed, under budget and within time constraints, this requires the ability to be pragamtic, weigh trade offs and make decisions the team, or even myself, may not be happy with. Building a perfect solution is unachievable - but building the perfect pragmatic solution is.
 
 ### Do you prefer to be told exactly what to do, or do you prefer to work with little direction?
 
-I can and have delivered successfully in both scenarios - however, I prefer to work with little direction, where the guard rails are a little wider and I have the ability to help influence the strategic direction. That said, I am engaged, ask a lot of questions, provide ample updates as to status and request feedback from both my peers and direct manager - I do not encourage working in isolation.
+I can and have delivered successfully in both scenarios - however, I prefer to work with little direction, where the guard rails are a little wider and I have the ability to help influence strategic direction. That said, I am engaged, ask a lot of questions, provide ample updates as to status and request feedback from both my peers and direct manager - I do not encourage working in isolation.
 
 ### Can you rate yourself for the top 5 technologies you are most familiar with - from 1-10? 1 being not at all, and 10 being you could write an O'Reilly book on the tech.
 
@@ -115,7 +115,7 @@ Two bonus ratings:
 I really enjoy working across all technologies and would prefer to keep it that way. Despite being a full stack engineer, front-end has always had a special place in my heart. Across technologies, I've done a little bit of a lot, some examples:
 
 - Modern front-end with VueJS 2/3, React and Angular
-  - My preference and most experience is with VueJS but would work in any of the modern stacks including Svelte or Solid
+  - My preference and most experience is with VueJS but would love to learn and work in any of the modern stacks including Svelte or Solid
 - NodeJS
 - Azure Services, AWS Services
 - Native iOS and Android
@@ -125,52 +125,62 @@ I really enjoy working across all technologies and would prefer to keep it that 
 
 ### What would you say your strengths are, and your weaknesses?
 
-My strengths are covered fairly well under the values question - with the 6th value being what I would consider my strongest trait. I immerse myself in what my customer needs and do my best to get us there under budgetary and time constraints. I'm able to dissassociate myself from the desire to achieve perfection; to step back and evaluate trade-offs and get buy-in from my peers and business leads; to deliver a quality product we can all be proud of.
+#### Strengths
+
+My strengths are covered fairly well under the values question - with the 6th value being what I would consider my strongest trait. I immerse myself in what my customer needs and do my best to get us there under budgetary and time constraints. I'm able to dissassociate myself from the desire to achieve perfection; to step back and evaluate trade-offs and get buy-in from my peers and business leads to deliver a quality product we can all be proud of.
 
 My personality is a strength - I'm agreeable, firm but fair, realistically optimistic and transparent. These personality traits allow me foster strong bonds with my peers, leadership and customers. Many times, privately, others will seek me out and give me kudos for being the voice of reason, the bouy in the sea providing safe harbor, or the 'happy one'.
 
 Another strength worth mentioning is my interest in helping others understand the things we do through creative story-telling - the most recent of which was helping my business partner understand the concept of object abstraction and instantiation via a story about a [fruit factory](./fruit-factory.md).
 
+#### Weaknesses
+
+I can get caught up on terminology or the explicit usage of phrases. I analysis the meaning behind words to a large degree and wind up in analysis loops. I eventually find my way out of the loop but sometimes confuse others as I try to unconfuse myself.
+
+I lack deep knowledge in any particular technology - as such I'm a generalist. I've always learned by doing - by implementing solutions to business challenges - usually volunteering for it with new technology stacks or approaches when the opportunty presented itself. I have a hard time focusing on thick books, or long form videos that dive into deep concepts. This weakness sometimes limits me as a desirable option when engineers are being selected for new work.
+
+I don't know a lot of academic or technical concepts off the top of my head - nor do I have an interest in them. For example when asked about design patterns, I may freeze and have a hard time explaining or implementing from scratch - but give me a short amount of time and I'll figure out how to do it, come up with my own opinions on if it's something valuable or not given the challenge we face, and implement if applicable. This weakness portrays me as not knowledgable on the given topics and may lead to lack of my engagement in the future.
+
 ### Give us an example of when someone told you to do something that was technically wrong and/or you disagreed with the architect. How do you deal with the situation?
 
 At AW, we work with and rely on various teams who specialize in other areas, one of these teams is called DevSecOps and they're responsible for building our CICD pipelines in AWS. I was engaging with them for implementation of a new pipeline for a docker based .NET Core API and docker based Angular front-end in a GitHub mono-repository. Going back 2 years prior to this engagement, the DevSecOps had built generic pipelines for use by other software engineering teams in the company - all of which were Java/Angular based. These pipelines were battle tested and in maintenance mode but lacked some features my team wanted to implement:
 
-- Tagging .NET libraries and docker images with a version generated from source code + build number
+- Tagging .NET libraries and Docker images with a version generated from Directory.Build.props + build number
 - Setting environmental build variables such that our dockerfile and Angular environment files could bake in a version number created from package.json version + build number
 - Running .NET unit tests, generating reports and dropping them in an S3 bucket so developers could review
 - Building, testing, versioning and publishing .NET libraries to AWS Code Artifact so that other pipelines could consume them
 - Triggering builds for individual projects in the monorepo when they change as opposed to rebuilding all projects in monorepo when any file changes
-- Promoting build artifacts through environments and applying environmental configuration at deploy time, instead of building after reacting to a merge commit in an environment specific branch
+- Promoting build artifacts through environments and applying environmental configuration at deploy time, instead of building after reacting to a merge commit in an environment specific branch (with configuration in source control)
 
-We were told very specifically that every one of these items except the last were not best practices. Additionally, for every one of these items we were told were not possible with AWS Code Pipeline.
+We were told very specifically that every one of these items except build promotion were not best practices. Additionally, for every one of these items we were told were not possible with AWS Code Pipeline.
 
-I have prior experience with Azure DevOps (VSTS prior to it) and TeamCity/Octopus Deploy and I knew this person's analysis of our request was wrong - So how did I deal with the situation?
+I have prior experience with Azure DevOps (VSTS prior to it) and TeamCity/Octopus Deploy and I knew this person's analysis of our request was wrong - so how did I deal with the situation?
 
-I had a Teams call with the lead DevSecOps teammate and expressed my opinions on how these were considered best practices in both .NET and Angular, and potentially Java ecosystems. I referenced AWS Code Pipeline documentation pages where each of these items is discussed in detail with examples. I intentionally did not reference any blog articles or opinion pieces. The outcome of this first meeting:
+I had a Teams call with the lead DevSecOps teammate and expressed my opinions on how these were considered best practices in both .NET and Angular. I referenced AWS Code Pipeline documentation pages where each of these items is discussed in detail with examples. I intentionally did not reference any blog articles or opinion pieces. The outcome of this first meeting:
 
 - Agreement to implement a versioning strategy in the API and front-end
 - Generation of reports from both project test runs was not possible with AWS Code Pipeline
 - Promotion of build artifacts is highly sought by teh company at large and is on the DevSecOps roadmap for 2023 (this discussion was in late 2021)
 
-Having seen the AWS Documentation of generating test run reports and exposing them via S3 from a link tied to each build run, I knew doing this was not impossible. I used this as an opportunity to try to lead by example. Over the next few days, I met with my manager and got permission to implement this in an AWS sandbox environment, fully documented my approach step by step with pictures and reference links to AWS Documentation, submitted it to the DevSecOps team, my team and the skip manager overseeing all of us. After a few weeks we were told the proposed approach was not possible with their generic implementation of pipelines and that it would require custom work on their end, to be prioritized and complete within 6 weeks. In the end, we were given a custom HTML text only based solution which allows us to review what tests passed and failed and [not the reports were had requested](https://aws.amazon.com/blogs/devops/test-reports-with-aws-codebuild/)
+Having seen the AWS Documentation of generating test run reports and exposing them via S3 from a link tied to each build run, I knew this request was _not impossible_. I used this as an opportunity to try to lead by example. Over the next few days, I met with my manager and got permission to implement this in an AWS sandbox environment, fully documented my approach step by step with pictures and reference links to AWS Documentation, submitted it to the DevSecOps team, my team and the skip manager overseeing all of us. After a few weeks we were told the proposed approach was not possible with their generic implementation of pipelines and that it would require custom work by their team, to be prioritized and completed within 6 weeks. In the end, we were given a custom text only based solution which allowed us to review what tests passed and failed and [not the reports we had requested](https://aws.amazon.com/blogs/devops/test-reports-with-aws-codebuild/)
 
 ### What do you think the hardest part about working remotely is?
 
-The hardest part for me working remotely is recognizing intent and absorbing emotional context during my interactions with colleagues. There are subtle (sometimes not!) physical mannerisms we humans go through when communicating with each other which provide context to help their audience understand intent or become empathatic to the words they speak. Being remote and in an industry where it's probably safe to say most of our colleagues are introverted (including myself) it can be easy and considered normal to prefer async communication over a text-based medium (e-mail, Slack) or even discussing something over voice - but turning on the video, that can be really difficult for some to do. Maybe someone is in their pajamas, or their bed isn't made, or their cat is on their shoulder, or maybe they're really just not comfortable being on camera - etc, there could be any reason why they prefer a video-less transmission. This option to participate without being visually 'present' is not an option when working in an office... and can make things difficult for thos of us who rely on social cues for communicating.
+The hardest part for me working remotely is recognizing intent and absorbing emotional context during my interactions with colleagues. There are subtle (sometimes not!) physical mannerisms we humans go through when communicating with each other which provide context to help our audience understand intent or become empathatic to the words we speak. Being remote and in an industry where there is a good amount of introversion (including myself) - it can be easy and considered normal to prefer async communication over a text-based medium (e-mail, Slack) or discussing something over voice - but turning on the video, that can be really difficult for some to do. Maybe someone is in their pajamas, or their bed isn't made, or their cat is on their shoulder, or maybe they're really just not comfortable being on camera - etc, there could be any reason why they prefer a video-less transmission. This option to participate without being visually 'present' is not an option when working in an office... and can make things difficult for those of us who rely on social cues for communicating.
 
 For this reason I make it a point to always turn my video on during calls even if I'm not leading the call or speaking.
 
 ### How do you plan on working remotely?
 
-I have worked remotely for multiple positions over the last 13 years in both individual and lead positions. I have a dedicated office in my home with 3 monitors, a gaming rig as my workstation and lots of plush toys. I over communicate to my peers and leadership my status as well as actively engage in in "general" type async channels in Slack / Teams. I try to bring a certain level of fun and question asking to these types of channels in an effort to interest others in joining in an effort to create community - I understand not everyone is interested in participation and can be self aware enough to know when I need to disengage.
+I have worked remotely for multiple companies over the last 13 years in both individual and lead positions. I have a dedicated office in my home with 3 monitors, a gaming rig as my workstation and lots of plush toys. I over communicate my status to my peers and leadership as well as actively engage in in "general" type async channels in Slack / Teams. I try to bring a aura of fun and question asking to these channels to entice others in join in; to create community - I understand not everyone is interested in participation and can be self aware enough to know when I need to disengage.
 
 ### What is something that you find especially annoying about working with people?
 
-This is a tough one to answer, because the word "annoying" is ... well annoying and not something you want to write about when applying for a position where you need to work harmoniously with other people. When coworkers commit to doing something and do not do the thing they committed to, or do not communicate a change in plan - this is especially annoying to me. We're all working together, to build and ship software, for various reasons. Usually, we don't have "micro-managers" requesting status and directing traffic multiple times a day - and for this reason we all need to hold ourselves accountable for the things we say we'll do, and when we don't or can't do them, need to relay this information to our teammates so they can assist or prepare for any alternative outcomes. This is something that I don't think is acquired over time with professional experience - I think it's something that is acquired as we grow up and influenced by environmental factors and the relationships that have been built in early life. For that reason, while annoying, I am still empathetic to the situation, understanding and try to lead by example by over communicating what I'm doing along with ETAs if applicable for any team members dependent on my tasks at hand.
+This is a tough one to answer, because the word "annoying" is ... well annoying and not something you want to write about when applying for a position where you need to work harmoniously with other people. When coworkers commit to doing something and do not do the thing they committed to, or do not communicate a change in plan - this is especially annoying to me. We're all working together to design, build and ship software. Hopefully, we don't have "micro-managers" requesting status and directing traffic multiple times a day - and for this reason we all need to hold ourselves accountable for the things we say we'll do, and when we don't or can't do them, need to relay this information to our teammates so they can assist or prepare for any alternative outcomes. This is something that I don't think is acquired over time with professional experience - I think it's something that is acquired as we grow up and are influenced by environmental factors and the relationships that we have been built in early life. For that reason, while annoying, I am still empathetic to the situation, understanding and try to lead by example by over communicating what I'm doing along with ETAs if applicable for any team members dependent on my tasks at hand.
 
 ### What if you become really frustrated with a teammate? What are you going to do?
 
-Communication. When I realize I've become frustrated with a teammate - I attempt to remove the emotion and see the situation through the lens of an observer. I will mentally go back through time and replay the interactions we had to diagnose how my emotional state of mind came to be then I'll reevaluate. Direct communication with the teammate almost always resolves these emotional states, regardless of how they came about - the communication should be neutral or empathatic and without humor or self deprecation - it's easy to blame ourselves in times like this in an effort to 'just get beyond' the situation - but it's more important to set clear boundaries and admit fault if fault is at play. When this doesn't work, then I just give things time to see how they play out - if my frustration continues beyond this point then I'll have a discussion with my manager in our next 1:1. I'll try to be objective and discuss what I perceive to be both sides of the story - hoping to get direction on an approach for remediation.
+Communication. When I realize I've become frustrated with a teammate - I attempt to remove the emotion and see the situation through the lens of an observer. I will mentally go back through time and replay the interactions we had to diagnose how my emotional state of mind came to be then I'll reevaluate. Direct communication with the teammate almost always resolves these emotional states, regardless of how they came about - the communication should be neutral or empathatic and without humor or self deprecation - it's easy to blame ourselves in times like this in an effort to 'just get beyond' the situation - but it's more important to set clear boundaries; to be vulnerable and admin fault and apologize as needed. If this does not resolve the sense of frustrated, or the situation worsens then I'll have a discussion with my manager in our next 1:1. I'll try to be objective and discuss what I perceive to be both sides of the story - hoping to get direction on an approach for remediation.
 
 ### What are you looking for financially?
 
